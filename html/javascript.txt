@@ -1,0 +1,83 @@
+
+                                               
+                                            Javascript - In back end (Dynamically typed language)
+                                        -------------------------------
+
+                                        1. to display content in js - console.log(1000/'text')
+                                        2. Data types
+                                           - Number
+                                           - string
+                                           - Boolean
+                                           - Undefined
+                                        3. variable - to hold values - var / let / const keyword
+                                        4. Identifiers - to provide rules for set up variable name  
+                                        5. Operators
+                                           - Assignment Operator: =
+                                           - Arithmetic Operator: + - / * % **
+                                           - Relational Operator: < <= > >= == ===
+                                           - Logical Operator: AND OR NOT
+                                              AND             OR            NOT
+                                              T && T = T     T || T = T    !T
+                                              T && F = F     T || F = T
+                                              F && T = F     F || T = T
+                                              F && F = F     F || F = F
+
+
+
+                                       10. String
+                                          - String Methods
+                                           - toUpperCase()
+                                           - toLowerCase()
+                                           - trim()
+                                           - endsWith()
+                                           - startsWith()
+                                           - substring()
+                                           - Slice()
+                                           - split()
+                                           - eval()
+
+                                        11. Objects : key-value pair
+                                          - create an object : variable-name = {key:value}
+                                        12. Object Oriented Programming
+                                          - Basic Concepts
+                                            - Objects : real world entity
+                                            - Class : Blueprint of object
+                                            - Reference : this keyword 
+                                          - Features
+                                            - Inheritance
+                                                 - Classical Inheritance
+                                                 - ProtoType Inheritance
+                                            - Function Overloading
+                                                 - Spread Operator
+                                        13. Exception Handling  
+                                           - Try - Catch - Finally Block
+
+                                           Javascript - In Front end (Scripting language)
+                                  -------------------------------------------------------------     
+                                        1. Document Object Model (DOM) - document
+                                        2. Methods to apply to html
+                                           - Internal JS - use script tag
+                                           - External JS - use js file
+                                        3. DOM Methods: Access HTML elements in JS
+                                           - Using tag name: document.getElementByTagName('tag')
+                                           - Using ID: document.getElementById('id')
+                                           - Using class name: document.getElementByClassName('class-name')
+                                           - Using QuerySelector: document.querySelector('tag/#id/.class-name')
+                                           - Using QuerySelectorAll: document.querySelectorAll('tag/#id/.class-name')
+                                        4. To Access / Update content in an html elements
+                                           - innerHTML
+                                           - textContent
+                                        5. Event - Actions performed by user to trigger the update in DOM
+                                           - click
+                                           - KeyDown
+                                           - KeyUp
+                                           - submit
+                                           - change
+                                           - load
+                                           - resize
+                                           - scroll
+                                        6. Dynamic Web Pages - JS
+                                           - Voting Eligibility Page  
+
+
+                                    

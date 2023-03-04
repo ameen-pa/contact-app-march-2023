@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+body{
+    font-family: 'Gloock', serif;
+}
+
+.contact_image{
+    width: 140px;
+    height: 120px;
+}
